@@ -47,7 +47,7 @@ header {
   color: white;
   display: flex;
   align-items: center;
-  padding: 0 20px;
+  padding: 100px;
   box-sizing: border-box;
 }
 
@@ -56,13 +56,13 @@ header article {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: 1200px; /* Ajuste a largura máxima conforme necessário */
+  max-width: 500px; /* Ajuste a largura máxima conforme necessário */
   margin: 0 auto;
 }
 
 header article div {
   flex: 1;
-  padding-right: 250px; /* Espaço entre o texto e a imagem */
+  padding-right: 200px; /* Espaço entre o texto e a imagem */
 }
 
 header article img {
